@@ -9,9 +9,9 @@
  * 3. alwaysNotice控制是否重复显示已经看过的图片，如果设置为false，则只会显示更新的图片。
  */
 
-let channels = ["yinqi120","ChunChaogeMeitui","ChunChaogeMeiru","TaiwanVitnam001"];
-let maxMedias = 10;
-let alwaysNotice = false;
+let channels = ["siwa120","ChunChaogeMeitui","ChunChaogeMeiru","TaiwanVitnam001"];
+let maxMedias = 5;
+let alwaysNotice = true;
 
 const $ = API("telegram");
 if ($.read("channels") !== undefined) {
