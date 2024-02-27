@@ -9,7 +9,7 @@
  * 3. alwaysNotice控制是否重复显示已经看过的图片，如果设置为false，则只会显示更新的图片。
  */
 
-let channels = ["siwa120","ChunChaogeMeitui","ChunChaogeMeiru","TaiwanVitnam001"];
+let channels = ["ChunChaogeMeitui","ChunChaogeMeiru"];
 let maxMedias = 5;
 let alwaysNotice = true;
 
