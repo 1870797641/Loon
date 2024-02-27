@@ -21,7 +21,7 @@ task合集：https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/task.j
 | [PSN](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/psn.js) | PSN会免 | 0 9 1 * * | [DEMO](https://raw.githubusercontent.com/Peng-YM/QuanX/master/demos/psn.JPG) |
 | [疫情日报](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js) | 推送当前地区疫情信息 | 0 9 * * * | [DEMO](https://raw.githubusercontent.com/Peng-YM/QuanX/master/demos/nCov.JPG) |
 | [✈️ 流量](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js) | 查询✈️ 流量 | 0 9 * * * | [DEMO](https://raw.githubusercontent.com/Peng-YM/QuanX/master/demos/flow.JPG) |
-| [TG多媒体推送](https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/telegram.js) | 推送TG频道图文视频 | 0 9 * * * | [DEMO]() |
+| [TG多媒体推送](https://raw.githubusercontent.com/1870797641/Loon/master/Tasks/telegram.js) | 推送TG频道图文视频 | 0 9 * * * | [DEMO]() |
 
 ## Developer
 
